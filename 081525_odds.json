@@ -1,1 +1,38 @@
-[{"id":"a2c9f28280b60a277e237c7bb40b0d3c","sport_key":"americanfootball_nfl_preseason","sport_title":"NFL Preseason","commence_time":"2025-08-15T23:01:00Z","home_team":"Atlanta Falcons","away_team":"Tennessee Titans","bookmakers":[{"key":"draftkings","title":"DraftKings","last_update":"2025-08-15T22:37:56Z","markets":[{"key":"spreads","last_update":"2025-08-15T22:37:56Z","outcomes":[{"name":"Atlanta Falcons","price":1.93,"point":3.0},{"name":"Tennessee Titans","price":1.89,"point":-3.0}]}]}]}]
+﻿{
+    "value":  [
+                  {
+                      "id":  "a2c9f28280b60a277e237c7bb40b0d3c",
+                      "sport_key":  "americanfootball_nfl_preseason",
+                      "sport_title":  "NFL Preseason",
+                      "commence_time":  "2025-08-15T23:01:00Z",
+                      "home_team":  "Atlanta Falcons",
+                      "away_team":  "Tennessee Titans",
+                      "bookmakers":  [
+                                         {
+                                             "key":  "draftkings",
+                                             "title":  "DraftKings",
+                                             "last_update":  "2025-08-15T23:00:44Z",
+                                             "markets":  [
+                                                             {
+                                                                 "key":  "spreads",
+                                                                 "last_update":  "2025-08-15T23:00:44Z",
+                                                                 "outcomes":  [
+                                                                                  {
+                                                                                      "name":  "Atlanta Falcons",
+                                                                                      "price":  1.95,
+                                                                                      "point":  2.5
+                                                                                  },
+                                                                                  {
+                                                                                      "name":  "Tennessee Titans",
+                                                                                      "price":  1.87,
+                                                                                      "point":  -2.5
+                                                                                  }
+                                                                              ]
+                                                             }
+                                                         ]
+                                         }
+                                     ]
+                  }
+              ],
+    "Count":  1
+}
