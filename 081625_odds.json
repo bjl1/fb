@@ -1,0 +1,478 @@
+﻿{
+    "value":  [
+                  {
+                      "id":  "666cce9501a4d6b0647967cbe4de86eb",
+                      "sport_key":  "americanfootball_nfl_preseason",
+                      "sport_title":  "NFL Preseason",
+                      "commence_time":  "2025-08-16T17:01:00Z",
+                      "home_team":  "Houston Texans",
+                      "away_team":  "Carolina Panthers",
+                      "bookmakers":  [
+                                         {
+                                             "key":  "fanduel",
+                                             "title":  "FanDuel",
+                                             "last_update":  "2025-08-16T11:59:59Z",
+                                             "link":  "https://sportsbook.fanduel.com/american-football/nfl-preseason/carolina-panthers-%40-houston-texans-34607165",
+                                             "sid":  "34607165",
+                                             "markets":  [
+                                                             {
+                                                                 "key":  "spreads",
+                                                                 "last_update":  "2025-08-16T11:59:59Z",
+                                                                 "link":  null,
+                                                                 "sid":  null,
+                                                                 "outcomes":  [
+                                                                                  {
+                                                                                      "name":  "Carolina Panthers",
+                                                                                      "price":  -112,
+                                                                                      "point":  2.5,
+                                                                                      "link":  "https://sportsbook.fanduel.com/addToBetslip?marketId=42.521916417\u0026selectionId=50198",
+                                                                                      "sid":  "50198",
+                                                                                      "bet_limit":  null
+                                                                                  },
+                                                                                  {
+                                                                                      "name":  "Houston Texans",
+                                                                                      "price":  -108,
+                                                                                      "point":  -2.5,
+                                                                                      "link":  "https://sportsbook.fanduel.com/addToBetslip?marketId=42.521916417\u0026selectionId=179823",
+                                                                                      "sid":  "179823",
+                                                                                      "bet_limit":  null
+                                                                                  }
+                                                                              ]
+                                                             }
+                                                         ]
+                                         }
+                                     ]
+                  },
+                  {
+                      "id":  "e9891fef6e4047d438a24d4ddfb29435",
+                      "sport_key":  "americanfootball_nfl_preseason",
+                      "sport_title":  "NFL Preseason",
+                      "commence_time":  "2025-08-16T17:01:00Z",
+                      "home_team":  "Philadelphia Eagles",
+                      "away_team":  "Cleveland Browns",
+                      "bookmakers":  [
+                                         {
+                                             "key":  "fanduel",
+                                             "title":  "FanDuel",
+                                             "last_update":  "2025-08-16T11:59:59Z",
+                                             "link":  "https://sportsbook.fanduel.com/american-football/nfl-preseason/cleveland-browns-%40-philadelphia-eagles-34607170",
+                                             "sid":  "34607170",
+                                             "markets":  [
+                                                             {
+                                                                 "key":  "spreads",
+                                                                 "last_update":  "2025-08-16T11:59:59Z",
+                                                                 "link":  null,
+                                                                 "sid":  null,
+                                                                 "outcomes":  [
+                                                                                  {
+                                                                                      "name":  "Cleveland Browns",
+                                                                                      "price":  -112,
+                                                                                      "point":  4.5,
+                                                                                      "link":  "https://sportsbook.fanduel.com/addToBetslip?marketId=42.521916486\u0026selectionId=50209",
+                                                                                      "sid":  "50209",
+                                                                                      "bet_limit":  null
+                                                                                  },
+                                                                                  {
+                                                                                      "name":  "Philadelphia Eagles",
+                                                                                      "price":  -108,
+                                                                                      "point":  -4.5,
+                                                                                      "link":  "https://sportsbook.fanduel.com/addToBetslip?marketId=42.521916486\u0026selectionId=50186",
+                                                                                      "sid":  "50186",
+                                                                                      "bet_limit":  null
+                                                                                  }
+                                                                              ]
+                                                             }
+                                                         ]
+                                         }
+                                     ]
+                  },
+                  {
+                      "id":  "491b74d43bb8b2412662e121ecb91fa7",
+                      "sport_key":  "americanfootball_nfl_preseason",
+                      "sport_title":  "NFL Preseason",
+                      "commence_time":  "2025-08-16T17:01:00Z",
+                      "home_team":  "Detroit Lions",
+                      "away_team":  "Miami Dolphins",
+                      "bookmakers":  [
+                                         {
+                                             "key":  "fanduel",
+                                             "title":  "FanDuel",
+                                             "last_update":  "2025-08-16T11:59:59Z",
+                                             "link":  "https://sportsbook.fanduel.com/american-football/nfl-preseason/miami-dolphins-%40-detroit-lions-34607164",
+                                             "sid":  "34607164",
+                                             "markets":  [
+                                                             {
+                                                                 "key":  "spreads",
+                                                                 "last_update":  "2025-08-16T11:59:59Z",
+                                                                 "link":  null,
+                                                                 "sid":  null,
+                                                                 "outcomes":  [
+                                                                                  {
+                                                                                      "name":  "Detroit Lions",
+                                                                                      "price":  -118,
+                                                                                      "point":  1.5,
+                                                                                      "link":  "https://sportsbook.fanduel.com/addToBetslip?marketId=42.521916395\u0026selectionId=50193",
+                                                                                      "sid":  "50193",
+                                                                                      "bet_limit":  null
+                                                                                  },
+                                                                                  {
+                                                                                      "name":  "Miami Dolphins",
+                                                                                      "price":  -104,
+                                                                                      "point":  -1.5,
+                                                                                      "link":  "https://sportsbook.fanduel.com/addToBetslip?marketId=42.521916395\u0026selectionId=50201",
+                                                                                      "sid":  "50201",
+                                                                                      "bet_limit":  null
+                                                                                  }
+                                                                              ]
+                                                             }
+                                                         ]
+                                         }
+                                     ]
+                  },
+                  {
+                      "id":  "f39775c969d2610f18a9b34fdf920c23",
+                      "sport_key":  "americanfootball_nfl_preseason",
+                      "sport_title":  "NFL Preseason",
+                      "commence_time":  "2025-08-16T17:01:00Z",
+                      "home_team":  "Indianapolis Colts",
+                      "away_team":  "Green Bay Packers",
+                      "bookmakers":  [
+                                         {
+                                             "key":  "fanduel",
+                                             "title":  "FanDuel",
+                                             "last_update":  "2025-08-16T11:59:59Z",
+                                             "link":  "https://sportsbook.fanduel.com/american-football/nfl-preseason/green-bay-packers-%40-indianapolis-colts-34607166",
+                                             "sid":  "34607166",
+                                             "markets":  [
+                                                             {
+                                                                 "key":  "spreads",
+                                                                 "last_update":  "2025-08-16T11:59:59Z",
+                                                                 "link":  null,
+                                                                 "sid":  null,
+                                                                 "outcomes":  [
+                                                                                  {
+                                                                                      "name":  "Green Bay Packers",
+                                                                                      "price":  -108,
+                                                                                      "point":  5.5,
+                                                                                      "link":  "https://sportsbook.fanduel.com/addToBetslip?marketId=42.521916429\u0026selectionId=50192",
+                                                                                      "sid":  "50192",
+                                                                                      "bet_limit":  null
+                                                                                  },
+                                                                                  {
+                                                                                      "name":  "Indianapolis Colts",
+                                                                                      "price":  -112,
+                                                                                      "point":  -5.5,
+                                                                                      "link":  "https://sportsbook.fanduel.com/addToBetslip?marketId=42.521916429\u0026selectionId=50200",
+                                                                                      "sid":  "50200",
+                                                                                      "bet_limit":  null
+                                                                                  }
+                                                                              ]
+                                                             }
+                                                         ]
+                                         }
+                                     ]
+                  },
+                  {
+                      "id":  "d4b890b331fc8c5c45ad93b86d1cb72a",
+                      "sport_key":  "americanfootball_nfl_preseason",
+                      "sport_title":  "NFL Preseason",
+                      "commence_time":  "2025-08-16T17:01:00Z",
+                      "home_team":  "Minnesota Vikings",
+                      "away_team":  "New England Patriots",
+                      "bookmakers":  [
+                                         {
+                                             "key":  "fanduel",
+                                             "title":  "FanDuel",
+                                             "last_update":  "2025-08-16T11:59:59Z",
+                                             "link":  "https://sportsbook.fanduel.com/american-football/nfl-preseason/new-england-patriots-%40-minnesota-vikings-34607168",
+                                             "sid":  "34607168",
+                                             "markets":  [
+                                                             {
+                                                                 "key":  "spreads",
+                                                                 "last_update":  "2025-08-16T11:59:59Z",
+                                                                 "link":  null,
+                                                                 "sid":  null,
+                                                                 "outcomes":  [
+                                                                                  {
+                                                                                      "name":  "Minnesota Vikings",
+                                                                                      "price":  -105,
+                                                                                      "point":  -1.5,
+                                                                                      "link":  "https://sportsbook.fanduel.com/addToBetslip?marketId=42.521916474\u0026selectionId=50191",
+                                                                                      "sid":  "50191",
+                                                                                      "bet_limit":  null
+                                                                                  },
+                                                                                  {
+                                                                                      "name":  "New England Patriots",
+                                                                                      "price":  -115,
+                                                                                      "point":  1.5,
+                                                                                      "link":  "https://sportsbook.fanduel.com/addToBetslip?marketId=42.521916474\u0026selectionId=50204",
+                                                                                      "sid":  "50204",
+                                                                                      "bet_limit":  null
+                                                                                  }
+                                                                              ]
+                                                             }
+                                                         ]
+                                         }
+                                     ]
+                  },
+                  {
+                      "id":  "c87b0ef2df98a70c4e6483b6ba4662ce",
+                      "sport_key":  "americanfootball_nfl_preseason",
+                      "sport_title":  "NFL Preseason",
+                      "commence_time":  "2025-08-16T20:01:00Z",
+                      "home_team":  "Las Vegas Raiders",
+                      "away_team":  "San Francisco 49ers",
+                      "bookmakers":  [
+                                         {
+                                             "key":  "fanduel",
+                                             "title":  "FanDuel",
+                                             "last_update":  "2025-08-16T11:59:59Z",
+                                             "link":  "https://sportsbook.fanduel.com/american-football/nfl-preseason/san-francisco-49ers-%40-las-vegas-raiders-34607180",
+                                             "sid":  "34607180",
+                                             "markets":  [
+                                                             {
+                                                                 "key":  "spreads",
+                                                                 "last_update":  "2025-08-16T11:59:59Z",
+                                                                 "link":  null,
+                                                                 "sid":  null,
+                                                                 "outcomes":  [
+                                                                                  {
+                                                                                      "name":  "Las Vegas Raiders",
+                                                                                      "price":  -105,
+                                                                                      "point":  -4.5,
+                                                                                      "link":  "https://sportsbook.fanduel.com/addToBetslip?marketId=42.521917339\u0026selectionId=27443341",
+                                                                                      "sid":  "27443341",
+                                                                                      "bet_limit":  null
+                                                                                  },
+                                                                                  {
+                                                                                      "name":  "San Francisco 49ers",
+                                                                                      "price":  -115,
+                                                                                      "point":  4.5,
+                                                                                      "link":  "https://sportsbook.fanduel.com/addToBetslip?marketId=42.521917339\u0026selectionId=43010249",
+                                                                                      "sid":  "43010249",
+                                                                                      "bet_limit":  null
+                                                                                  }
+                                                                              ]
+                                                             }
+                                                         ]
+                                         }
+                                     ]
+                  },
+                  {
+                      "id":  "2b4f67b1c261c8e788343eb334f90cdb",
+                      "sport_key":  "americanfootball_nfl_preseason",
+                      "sport_title":  "NFL Preseason",
+                      "commence_time":  "2025-08-16T23:01:00Z",
+                      "home_team":  "Dallas Cowboys",
+                      "away_team":  "Baltimore Ravens",
+                      "bookmakers":  [
+                                         {
+                                             "key":  "fanduel",
+                                             "title":  "FanDuel",
+                                             "last_update":  "2025-08-16T11:59:59Z",
+                                             "link":  "https://sportsbook.fanduel.com/american-football/nfl-preseason/baltimore-ravens-%40-dallas-cowboys-34607181",
+                                             "sid":  "34607181",
+                                             "markets":  [
+                                                             {
+                                                                 "key":  "spreads",
+                                                                 "last_update":  "2025-08-16T11:59:59Z",
+                                                                 "link":  null,
+                                                                 "sid":  null,
+                                                                 "outcomes":  [
+                                                                                  {
+                                                                                      "name":  "Baltimore Ravens",
+                                                                                      "price":  -112,
+                                                                                      "point":  -1.5,
+                                                                                      "link":  "https://sportsbook.fanduel.com/addToBetslip?marketId=42.521917361\u0026selectionId=50205",
+                                                                                      "sid":  "50205",
+                                                                                      "bet_limit":  null
+                                                                                  },
+                                                                                  {
+                                                                                      "name":  "Dallas Cowboys",
+                                                                                      "price":  -108,
+                                                                                      "point":  1.5,
+                                                                                      "link":  "https://sportsbook.fanduel.com/addToBetslip?marketId=42.521917361\u0026selectionId=50189",
+                                                                                      "sid":  "50189",
+                                                                                      "bet_limit":  null
+                                                                                  }
+                                                                              ]
+                                                             }
+                                                         ]
+                                         }
+                                     ]
+                  },
+                  {
+                      "id":  "0858b828be3c5c1cee09dd6f0fccaa3c",
+                      "sport_key":  "americanfootball_nfl_preseason",
+                      "sport_title":  "NFL Preseason",
+                      "commence_time":  "2025-08-16T23:01:00Z",
+                      "home_team":  "Los Angeles Rams",
+                      "away_team":  "Los Angeles Chargers",
+                      "bookmakers":  [
+                                         {
+                                             "key":  "fanduel",
+                                             "title":  "FanDuel",
+                                             "last_update":  "2025-08-16T11:59:59Z",
+                                             "link":  "https://sportsbook.fanduel.com/american-football/nfl-preseason/los-angeles-chargers-%40-los-angeles-rams-34607182",
+                                             "sid":  "34607182",
+                                             "markets":  [
+                                                             {
+                                                                 "key":  "spreads",
+                                                                 "last_update":  "2025-08-16T11:59:59Z",
+                                                                 "link":  null,
+                                                                 "sid":  null,
+                                                                 "outcomes":  [
+                                                                                  {
+                                                                                      "name":  "Los Angeles Chargers",
+                                                                                      "price":  -120,
+                                                                                      "point":  -6.5,
+                                                                                      "link":  "https://sportsbook.fanduel.com/addToBetslip?marketId=42.521917372\u0026selectionId=12481798",
+                                                                                      "sid":  "12481798",
+                                                                                      "bet_limit":  null
+                                                                                  },
+                                                                                  {
+                                                                                      "name":  "Los Angeles Rams",
+                                                                                      "price":  -102,
+                                                                                      "point":  6.5,
+                                                                                      "link":  "https://sportsbook.fanduel.com/addToBetslip?marketId=42.521917372\u0026selectionId=10782388",
+                                                                                      "sid":  "10782388",
+                                                                                      "bet_limit":  null
+                                                                                  }
+                                                                              ]
+                                                             }
+                                                         ]
+                                         }
+                                     ]
+                  },
+                  {
+                      "id":  "2f2cd449d267c3acc64cebf1273abe0e",
+                      "sport_key":  "americanfootball_nfl_preseason",
+                      "sport_title":  "NFL Preseason",
+                      "commence_time":  "2025-08-16T23:01:00Z",
+                      "home_team":  "New York Giants",
+                      "away_team":  "New York Jets",
+                      "bookmakers":  [
+                                         {
+                                             "key":  "fanduel",
+                                             "title":  "FanDuel",
+                                             "last_update":  "2025-08-16T11:59:59Z",
+                                             "link":  "https://sportsbook.fanduel.com/american-football/nfl-preseason/new-york-jets-%40-new-york-giants-34607183",
+                                             "sid":  "34607183",
+                                             "markets":  [
+                                                             {
+                                                                 "key":  "spreads",
+                                                                 "last_update":  "2025-08-16T11:59:59Z",
+                                                                 "link":  null,
+                                                                 "sid":  null,
+                                                                 "outcomes":  [
+                                                                                  {
+                                                                                      "name":  "New York Giants",
+                                                                                      "price":  -120,
+                                                                                      "point":  -3.5,
+                                                                                      "link":  "https://sportsbook.fanduel.com/addToBetslip?marketId=42.521917398\u0026selectionId=50185",
+                                                                                      "sid":  "50185",
+                                                                                      "bet_limit":  null
+                                                                                  },
+                                                                                  {
+                                                                                      "name":  "New York Jets",
+                                                                                      "price":  -102,
+                                                                                      "point":  3.5,
+                                                                                      "link":  "https://sportsbook.fanduel.com/addToBetslip?marketId=42.521917398\u0026selectionId=50202",
+                                                                                      "sid":  "50202",
+                                                                                      "bet_limit":  null
+                                                                                  }
+                                                                              ]
+                                                             }
+                                                         ]
+                                         }
+                                     ]
+                  },
+                  {
+                      "id":  "94bb80ac5cda29637a2a31769cb5769b",
+                      "sport_key":  "americanfootball_nfl_preseason",
+                      "sport_title":  "NFL Preseason",
+                      "commence_time":  "2025-08-16T23:01:00Z",
+                      "home_team":  "Pittsburgh Steelers",
+                      "away_team":  "Tampa Bay Buccaneers",
+                      "bookmakers":  [
+                                         {
+                                             "key":  "fanduel",
+                                             "title":  "FanDuel",
+                                             "last_update":  "2025-08-16T11:59:59Z",
+                                             "link":  "https://sportsbook.fanduel.com/american-football/nfl-preseason/tampa-bay-buccaneers-%40-pittsburgh-steelers-34607185",
+                                             "sid":  "34607185",
+                                             "markets":  [
+                                                             {
+                                                                 "key":  "spreads",
+                                                                 "last_update":  "2025-08-16T11:59:59Z",
+                                                                 "link":  null,
+                                                                 "sid":  null,
+                                                                 "outcomes":  [
+                                                                                  {
+                                                                                      "name":  "Pittsburgh Steelers",
+                                                                                      "price":  -102,
+                                                                                      "point":  2.5,
+                                                                                      "link":  "https://sportsbook.fanduel.com/addToBetslip?marketId=42.521917431\u0026selectionId=50208",
+                                                                                      "sid":  "50208",
+                                                                                      "bet_limit":  null
+                                                                                  },
+                                                                                  {
+                                                                                      "name":  "Tampa Bay Buccaneers",
+                                                                                      "price":  -120,
+                                                                                      "point":  -2.5,
+                                                                                      "link":  "https://sportsbook.fanduel.com/addToBetslip?marketId=42.521917431\u0026selectionId=50190",
+                                                                                      "sid":  "50190",
+                                                                                      "bet_limit":  null
+                                                                                  }
+                                                                              ]
+                                                             }
+                                                         ]
+                                         }
+                                     ]
+                  },
+                  {
+                      "id":  "2798622d2e26fcf7ab096b97e7d8b12b",
+                      "sport_key":  "americanfootball_nfl_preseason",
+                      "sport_title":  "NFL Preseason",
+                      "commence_time":  "2025-08-17T01:31:00Z",
+                      "home_team":  "Denver Broncos",
+                      "away_team":  "Arizona Cardinals",
+                      "bookmakers":  [
+                                         {
+                                             "key":  "fanduel",
+                                             "title":  "FanDuel",
+                                             "last_update":  "2025-08-16T11:59:59Z",
+                                             "link":  "https://sportsbook.fanduel.com/american-football/nfl-preseason/arizona-cardinals-%40-denver-broncos-34607186",
+                                             "sid":  "34607186",
+                                             "markets":  [
+                                                             {
+                                                                 "key":  "spreads",
+                                                                 "last_update":  "2025-08-16T11:59:59Z",
+                                                                 "link":  null,
+                                                                 "sid":  null,
+                                                                 "outcomes":  [
+                                                                                  {
+                                                                                      "name":  "Arizona Cardinals",
+                                                                                      "price":  -115,
+                                                                                      "point":  3.0,
+                                                                                      "link":  "https://sportsbook.fanduel.com/addToBetslip?marketId=42.521917453\u0026selectionId=50188",
+                                                                                      "sid":  "50188",
+                                                                                      "bet_limit":  null
+                                                                                  },
+                                                                                  {
+                                                                                      "name":  "Denver Broncos",
+                                                                                      "price":  -105,
+                                                                                      "point":  -3.0,
+                                                                                      "link":  "https://sportsbook.fanduel.com/addToBetslip?marketId=42.521917453\u0026selectionId=50211",
+                                                                                      "sid":  "50211",
+                                                                                      "bet_limit":  null
+                                                                                  }
+                                                                              ]
+                                                             }
+                                                         ]
+                                         }
+                                     ]
+                  }
+              ],
+    "Count":  11
+}
