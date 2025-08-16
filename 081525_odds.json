@@ -11,30 +11,30 @@
                                          {
                                              "key":  "fanduel",
                                              "title":  "FanDuel",
-                                             "last_update":  "2025-08-16T01:11:27Z",
+                                             "last_update":  "2025-08-16T01:24:21Z",
                                              "link":  "https://sportsbook.fanduel.com/american-football/nfl-preseason/tennessee-titans-%40-atlanta-falcons-34607162",
                                              "sid":  "34607162",
                                              "markets":  [
                                                              {
-                                                                 "key":  "totals",
-                                                                 "last_update":  "2025-08-16T01:11:27Z",
+                                                                 "key":  "spreads",
+                                                                 "last_update":  "2025-08-16T01:24:21Z",
                                                                  "link":  null,
                                                                  "sid":  null,
                                                                  "outcomes":  [
                                                                                   {
-                                                                                      "name":  "Over",
-                                                                                      "price":  -144,
-                                                                                      "point":  38.5,
-                                                                                      "link":  "https://sportsbook.fanduel.com/addToBetslip?marketId=42.521916357\u0026selectionId=7017916",
-                                                                                      "sid":  "7017916",
+                                                                                      "name":  "Atlanta Falcons",
+                                                                                      "price":  -125,
+                                                                                      "point":  6.5,
+                                                                                      "link":  "https://sportsbook.fanduel.com/addToBetslip?marketId=42.521916355\u0026selectionId=50199",
+                                                                                      "sid":  "50199",
                                                                                       "bet_limit":  null
                                                                                   },
                                                                                   {
-                                                                                      "name":  "Under",
-                                                                                      "price":  108,
-                                                                                      "point":  38.5,
-                                                                                      "link":  "https://sportsbook.fanduel.com/addToBetslip?marketId=42.521916357\u0026selectionId=7017917",
-                                                                                      "sid":  "7017917",
+                                                                                      "name":  "Tennessee Titans",
+                                                                                      "price":  -106,
+                                                                                      "point":  -6.5,
+                                                                                      "link":  "https://sportsbook.fanduel.com/addToBetslip?marketId=42.521916355\u0026selectionId=50206",
+                                                                                      "sid":  "50206",
                                                                                       "bet_limit":  null
                                                                                   }
                                                                               ]
@@ -54,30 +54,30 @@
                                          {
                                              "key":  "fanduel",
                                              "title":  "FanDuel",
-                                             "last_update":  "2025-08-16T01:11:27Z",
+                                             "last_update":  "2025-08-16T01:24:21Z",
                                              "link":  "https://sportsbook.fanduel.com/american-football/nfl-preseason/kansas-city-chiefs-%40-seattle-seahawks-34607163",
                                              "sid":  "34607163",
                                              "markets":  [
                                                              {
-                                                                 "key":  "totals",
-                                                                 "last_update":  "2025-08-16T01:11:27Z",
+                                                                 "key":  "spreads",
+                                                                 "last_update":  "2025-08-16T01:24:21Z",
                                                                  "link":  null,
                                                                  "sid":  null,
                                                                  "outcomes":  [
                                                                                   {
-                                                                                      "name":  "Over",
-                                                                                      "price":  -110,
-                                                                                      "point":  38.5,
-                                                                                      "link":  "https://sportsbook.fanduel.com/addToBetslip?marketId=42.521916380\u0026selectionId=7017916",
-                                                                                      "sid":  "7017916",
+                                                                                      "name":  "Kansas City Chiefs",
+                                                                                      "price":  -115,
+                                                                                      "point":  4.5,
+                                                                                      "link":  "https://sportsbook.fanduel.com/addToBetslip?marketId=42.521916378\u0026selectionId=50214",
+                                                                                      "sid":  "50214",
                                                                                       "bet_limit":  null
                                                                                   },
                                                                                   {
-                                                                                      "name":  "Under",
-                                                                                      "price":  -110,
-                                                                                      "point":  38.5,
-                                                                                      "link":  "https://sportsbook.fanduel.com/addToBetslip?marketId=42.521916380\u0026selectionId=7017917",
-                                                                                      "sid":  "7017917",
+                                                                                      "name":  "Seattle Seahawks",
+                                                                                      "price":  -105,
+                                                                                      "point":  -4.5,
+                                                                                      "link":  "https://sportsbook.fanduel.com/addToBetslip?marketId=42.521916378\u0026selectionId=50213",
+                                                                                      "sid":  "50213",
                                                                                       "bet_limit":  null
                                                                                   }
                                                                               ]
