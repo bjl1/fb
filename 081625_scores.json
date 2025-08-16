@@ -1,0 +1,199 @@
+﻿{
+    "value":  [
+                  {
+                      "id":  "a2c9f28280b60a277e237c7bb40b0d3c",
+                      "sport_key":  "americanfootball_nfl_preseason",
+                      "sport_title":  "NFL Preseason",
+                      "commence_time":  "2025-08-15T23:06:15Z",
+                      "completed":  true,
+                      "home_team":  "Atlanta Falcons",
+                      "away_team":  "Tennessee Titans",
+                      "scores":  [
+                                     {
+                                         "name":  "Tennessee Titans",
+                                         "score":  "23"
+                                     },
+                                     {
+                                         "name":  "Atlanta Falcons",
+                                         "score":  "20"
+                                     }
+                                 ],
+                      "last_update":  "2025-08-16T07:59:35Z"
+                  },
+                  {
+                      "id":  "41784fcad42cdcc7b114733a0ea83a04",
+                      "sport_key":  "americanfootball_nfl_preseason",
+                      "sport_title":  "NFL Preseason",
+                      "commence_time":  "2025-08-16T02:05:17Z",
+                      "completed":  true,
+                      "home_team":  "Seattle Seahawks",
+                      "away_team":  "Kansas City Chiefs",
+                      "scores":  [
+                                     {
+                                         "name":  "Kansas City Chiefs",
+                                         "score":  "16"
+                                     },
+                                     {
+                                         "name":  "Seattle Seahawks",
+                                         "score":  "33"
+                                     }
+                                 ],
+                      "last_update":  "2025-08-16T07:59:35Z"
+                  },
+                  {
+                      "id":  "666cce9501a4d6b0647967cbe4de86eb",
+                      "sport_key":  "americanfootball_nfl_preseason",
+                      "sport_title":  "NFL Preseason",
+                      "commence_time":  "2025-08-16T17:01:00Z",
+                      "completed":  false,
+                      "home_team":  "Houston Texans",
+                      "away_team":  "Carolina Panthers",
+                      "scores":  null,
+                      "last_update":  null
+                  },
+                  {
+                      "id":  "e9891fef6e4047d438a24d4ddfb29435",
+                      "sport_key":  "americanfootball_nfl_preseason",
+                      "sport_title":  "NFL Preseason",
+                      "commence_time":  "2025-08-16T17:01:00Z",
+                      "completed":  false,
+                      "home_team":  "Philadelphia Eagles",
+                      "away_team":  "Cleveland Browns",
+                      "scores":  null,
+                      "last_update":  null
+                  },
+                  {
+                      "id":  "491b74d43bb8b2412662e121ecb91fa7",
+                      "sport_key":  "americanfootball_nfl_preseason",
+                      "sport_title":  "NFL Preseason",
+                      "commence_time":  "2025-08-16T17:01:00Z",
+                      "completed":  false,
+                      "home_team":  "Detroit Lions",
+                      "away_team":  "Miami Dolphins",
+                      "scores":  null,
+                      "last_update":  null
+                  },
+                  {
+                      "id":  "f39775c969d2610f18a9b34fdf920c23",
+                      "sport_key":  "americanfootball_nfl_preseason",
+                      "sport_title":  "NFL Preseason",
+                      "commence_time":  "2025-08-16T17:01:00Z",
+                      "completed":  false,
+                      "home_team":  "Indianapolis Colts",
+                      "away_team":  "Green Bay Packers",
+                      "scores":  null,
+                      "last_update":  null
+                  },
+                  {
+                      "id":  "d4b890b331fc8c5c45ad93b86d1cb72a",
+                      "sport_key":  "americanfootball_nfl_preseason",
+                      "sport_title":  "NFL Preseason",
+                      "commence_time":  "2025-08-16T17:01:00Z",
+                      "completed":  false,
+                      "home_team":  "Minnesota Vikings",
+                      "away_team":  "New England Patriots",
+                      "scores":  null,
+                      "last_update":  null
+                  },
+                  {
+                      "id":  "c87b0ef2df98a70c4e6483b6ba4662ce",
+                      "sport_key":  "americanfootball_nfl_preseason",
+                      "sport_title":  "NFL Preseason",
+                      "commence_time":  "2025-08-16T20:01:00Z",
+                      "completed":  false,
+                      "home_team":  "Las Vegas Raiders",
+                      "away_team":  "San Francisco 49ers",
+                      "scores":  null,
+                      "last_update":  null
+                  },
+                  {
+                      "id":  "2b4f67b1c261c8e788343eb334f90cdb",
+                      "sport_key":  "americanfootball_nfl_preseason",
+                      "sport_title":  "NFL Preseason",
+                      "commence_time":  "2025-08-16T23:01:00Z",
+                      "completed":  false,
+                      "home_team":  "Dallas Cowboys",
+                      "away_team":  "Baltimore Ravens",
+                      "scores":  null,
+                      "last_update":  null
+                  },
+                  {
+                      "id":  "0858b828be3c5c1cee09dd6f0fccaa3c",
+                      "sport_key":  "americanfootball_nfl_preseason",
+                      "sport_title":  "NFL Preseason",
+                      "commence_time":  "2025-08-16T23:01:00Z",
+                      "completed":  false,
+                      "home_team":  "Los Angeles Rams",
+                      "away_team":  "Los Angeles Chargers",
+                      "scores":  null,
+                      "last_update":  null
+                  },
+                  {
+                      "id":  "2f2cd449d267c3acc64cebf1273abe0e",
+                      "sport_key":  "americanfootball_nfl_preseason",
+                      "sport_title":  "NFL Preseason",
+                      "commence_time":  "2025-08-16T23:01:00Z",
+                      "completed":  false,
+                      "home_team":  "New York Giants",
+                      "away_team":  "New York Jets",
+                      "scores":  null,
+                      "last_update":  null
+                  },
+                  {
+                      "id":  "94bb80ac5cda29637a2a31769cb5769b",
+                      "sport_key":  "americanfootball_nfl_preseason",
+                      "sport_title":  "NFL Preseason",
+                      "commence_time":  "2025-08-16T23:01:00Z",
+                      "completed":  false,
+                      "home_team":  "Pittsburgh Steelers",
+                      "away_team":  "Tampa Bay Buccaneers",
+                      "scores":  null,
+                      "last_update":  null
+                  },
+                  {
+                      "id":  "2798622d2e26fcf7ab096b97e7d8b12b",
+                      "sport_key":  "americanfootball_nfl_preseason",
+                      "sport_title":  "NFL Preseason",
+                      "commence_time":  "2025-08-17T01:31:00Z",
+                      "completed":  false,
+                      "home_team":  "Denver Broncos",
+                      "away_team":  "Arizona Cardinals",
+                      "scores":  null,
+                      "last_update":  null
+                  },
+                  {
+                      "id":  "b65e40755b1bde40ffd2267ccecb82c3",
+                      "sport_key":  "americanfootball_nfl_preseason",
+                      "sport_title":  "NFL Preseason",
+                      "commence_time":  "2025-08-17T17:01:00Z",
+                      "completed":  false,
+                      "home_team":  "New Orleans Saints",
+                      "away_team":  "Jacksonville Jaguars",
+                      "scores":  null,
+                      "last_update":  null
+                  },
+                  {
+                      "id":  "68c9dc0db13c81aa3606e8101382e3f0",
+                      "sport_key":  "americanfootball_nfl_preseason",
+                      "sport_title":  "NFL Preseason",
+                      "commence_time":  "2025-08-18T00:01:00Z",
+                      "completed":  false,
+                      "home_team":  "Chicago Bears",
+                      "away_team":  "Buffalo Bills",
+                      "scores":  null,
+                      "last_update":  null
+                  },
+                  {
+                      "id":  "0d708e3b8bdcb2019d6df37aa7a3da47",
+                      "sport_key":  "americanfootball_nfl_preseason",
+                      "sport_title":  "NFL Preseason",
+                      "commence_time":  "2025-08-19T00:01:00Z",
+                      "completed":  false,
+                      "home_team":  "Washington Commanders",
+                      "away_team":  "Cincinnati Bengals",
+                      "scores":  null,
+                      "last_update":  null
+                  }
+              ],
+    "Count":  16
+}
