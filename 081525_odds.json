@@ -1,81 +1,38 @@
 ﻿{
     "value":  [
                   {
-                      "id":  "a2c9f28280b60a277e237c7bb40b0d3c",
-                      "sport_key":  "americanfootball_nfl_preseason",
-                      "sport_title":  "NFL Preseason",
-                      "commence_time":  "2025-08-15T23:06:15Z",
-                      "home_team":  "Atlanta Falcons",
-                      "away_team":  "Tennessee Titans",
-                      "bookmakers":  [
-                                         {
-                                             "key":  "fanduel",
-                                             "title":  "FanDuel",
-                                             "last_update":  "2025-08-16T01:24:21Z",
-                                             "link":  "https://sportsbook.fanduel.com/american-football/nfl-preseason/tennessee-titans-%40-atlanta-falcons-34607162",
-                                             "sid":  "34607162",
-                                             "markets":  [
-                                                             {
-                                                                 "key":  "spreads",
-                                                                 "last_update":  "2025-08-16T01:24:21Z",
-                                                                 "link":  null,
-                                                                 "sid":  null,
-                                                                 "outcomes":  [
-                                                                                  {
-                                                                                      "name":  "Atlanta Falcons",
-                                                                                      "price":  -125,
-                                                                                      "point":  6.5,
-                                                                                      "link":  "https://sportsbook.fanduel.com/addToBetslip?marketId=42.521916355\u0026selectionId=50199",
-                                                                                      "sid":  "50199",
-                                                                                      "bet_limit":  null
-                                                                                  },
-                                                                                  {
-                                                                                      "name":  "Tennessee Titans",
-                                                                                      "price":  -106,
-                                                                                      "point":  -6.5,
-                                                                                      "link":  "https://sportsbook.fanduel.com/addToBetslip?marketId=42.521916355\u0026selectionId=50206",
-                                                                                      "sid":  "50206",
-                                                                                      "bet_limit":  null
-                                                                                  }
-                                                                              ]
-                                                             }
-                                                         ]
-                                         }
-                                     ]
-                  },
-                  {
                       "id":  "41784fcad42cdcc7b114733a0ea83a04",
                       "sport_key":  "americanfootball_nfl_preseason",
                       "sport_title":  "NFL Preseason",
-                      "commence_time":  "2025-08-16T02:01:00Z",
+                      "commence_time":  "2025-08-16T02:05:17Z",
                       "home_team":  "Seattle Seahawks",
                       "away_team":  "Kansas City Chiefs",
                       "bookmakers":  [
                                          {
                                              "key":  "fanduel",
                                              "title":  "FanDuel",
-                                             "last_update":  "2025-08-16T01:24:21Z",
+                                             "last_update":  "2025-08-16T02:34:23Z",
                                              "link":  "https://sportsbook.fanduel.com/american-football/nfl-preseason/kansas-city-chiefs-%40-seattle-seahawks-34607163",
                                              "sid":  "34607163",
                                              "markets":  [
                                                              {
                                                                  "key":  "spreads",
-                                                                 "last_update":  "2025-08-16T01:24:21Z",
+                                                                 "last_update":  "2025-08-16T02:34:23Z",
                                                                  "link":  null,
                                                                  "sid":  null,
                                                                  "outcomes":  [
                                                                                   {
                                                                                       "name":  "Kansas City Chiefs",
-                                                                                      "price":  -115,
-                                                                                      "point":  4.5,
+                                                                                      "price":  -114,
+                                                                                      "point":  12.5,
                                                                                       "link":  "https://sportsbook.fanduel.com/addToBetslip?marketId=42.521916378\u0026selectionId=50214",
                                                                                       "sid":  "50214",
                                                                                       "bet_limit":  null
                                                                                   },
                                                                                   {
                                                                                       "name":  "Seattle Seahawks",
-                                                                                      "price":  -105,
-                                                                                      "point":  -4.5,
+                                                                                      "price":  -114,
+                                                                                      "point":  -12.5,
                                                                                       "link":  "https://sportsbook.fanduel.com/addToBetslip?marketId=42.521916378\u0026selectionId=50213",
                                                                                       "sid":  "50213",
                                                                                       "bet_limit":  null
@@ -87,5 +44,5 @@
                                      ]
                   }
               ],
-    "Count":  2
+    "Count":  1
 }
